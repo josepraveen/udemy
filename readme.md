@@ -16,7 +16,7 @@ https://www.udemy.com/course/python-interview-questions-and-answers/?couponCode=
 
 https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=PYTHON_JUL_FREE
 
-https://www.udemy.com/course/smtbm-ml-py/?couponCode=SMTML10JUL
+
 
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
 
@@ -29,19 +29,13 @@ https://www.udemy.com/course/machine-learning-interview-questions-and-answers/?c
 https://www.udemy.com/course/tensorflow-interview-questions-and-answers/?couponCode=TF_INTEVIEW_UPLATZ
 
 
-R
-
-https://www.udemy.com/course/master-en-data-science-y-machine-learning-con-r-y-rstudio/
-
 javascript
 
 https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponCode=JS_JUL_FREE
 
-https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JULY21
 
 other / practice test
 
-https://www.udemy.com/course/powerbi-hero/?couponCode=DASHBICOURSE
 
 https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-updated-2021/?couponCode=FREEJUL10
 
