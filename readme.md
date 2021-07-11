@@ -10,7 +10,7 @@ https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/?couponC
 
 https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE
 
-python /ML
+python / machine learning
 
 https://www.udemy.com/course/python-interview-questions-and-answers/?couponCode=PY_INTERVIEW_UPLATZ
 
@@ -39,7 +39,7 @@ https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponC
 
 https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/?couponCode=JULY21
 
-other /' practice test
+other / practice test
 
 https://www.udemy.com/course/powerbi-hero/?couponCode=DASHBICOURSE
 
