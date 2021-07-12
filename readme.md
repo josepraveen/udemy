@@ -16,7 +16,6 @@ https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE
 
 python / machine learning
 
-
 https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=PYTHON_JUL_FREE
 
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
@@ -27,6 +26,10 @@ https://www.udemy.com/course/exploratory-data-analysis-for-ml/?couponCode=JULY-E
 
 https://www.udemy.com/course/predicting-diabetes-on-diagnostic-using-machine-learning-examturf/?couponCode=EXAMTURF3
 
+https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
+
+https://www.udemy.com/course/data-analytics-projects-python/?couponCode=JULY_SALE
+
 javascript
 
 https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponCode=JS_JUL_FREE
@@ -34,6 +37,14 @@ https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponC
 Scrum Master
 
 https://www.udemy.com/course/scrum-certification/?couponCode=PWRSCRMFREE21
+
+Git
+
+https://www.udemy.com/course/mastering-git-for-beginners-and-experts/?couponCode=3FREEDAYS
+
+quantum computing 
+
+https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
 
 other / practice test
 
@@ -57,14 +68,12 @@ https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-a
 
 https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PDIMFRULY
 
-https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
-
 https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=FRCONSECLY
 
-https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
 
-https://www.udemy.com/course/data-analytics-projects-python/?couponCode=JULY_SALE
 
-https://www.udemy.com/course/mastering-git-for-beginners-and-experts/?couponCode=3FREEDAYS
+
+
+
 
 
