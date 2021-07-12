@@ -4,8 +4,20 @@ limited time free udemy courses
 
 Coupons might expire anytime.
 
-java
 
+https://www.udemy.com/course/sentiment-analysis-with-python-examturf/?couponCode=EXAMTURF3
+
+https://www.udemy.com/course/credit-default-prediction-using-logistic-regression-examturf/?couponCode=EXAMTURF3
+
+https://www.udemy.com/course/real-practice-tests-az-900-microsoft-azure-fundamentals/?couponCode=FREE-AZ-900
+
+https://www.udemy.com/course/microsoft-pl-900-exam-preparation-new/?couponCode=PL900FREE
+
+https://www.udemy.com/course/android-app-development-bootcamp-with-kotlin-masterclass/?couponCode=LEARNANDROIDFREE
+
+https://www.udemy.com/course/network-programming-java-network-programming-nio-tcpip-sockets/?couponCode=NETWORKLEARN
+
+-------------------------------------
 https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_JUL_FREE_1
 
 https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=GOF_JUL_FREE
@@ -14,7 +26,6 @@ https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/?couponC
 
 https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE
 
-python / machine learning
 
 https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=PYTHON_JUL_FREE
 
@@ -30,23 +41,18 @@ https://www.udemy.com/course/complete-practical-time-series-forecasting-in-pytho
 
 https://www.udemy.com/course/data-analytics-projects-python/?couponCode=JULY_SALE
 
-javascript
 
 https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponCode=JS_JUL_FREE
 
-Scrum Master
 
 https://www.udemy.com/course/scrum-certification/?couponCode=PWRSCRMFREE21
 
-Git
 
 https://www.udemy.com/course/mastering-git-for-beginners-and-experts/?couponCode=3FREEDAYS
 
-quantum computing 
 
 https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
 
-other / practice test
 
 https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-updated-2021/?couponCode=FREEJUL10
 
