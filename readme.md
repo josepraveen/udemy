@@ -60,3 +60,11 @@ https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?coupo
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
 
 https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=FRCONSECLY
+
+https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
+
+https://www.udemy.com/course/data-analytics-projects-python/?couponCode=JULY_SALE
+
+https://www.udemy.com/course/mastering-git-for-beginners-and-experts/?couponCode=3FREEDAYS
+
+
