@@ -1,4 +1,8 @@
-limited time free udemy courses 
+
+
+limited time free udemy courses
+
+Coupons might expire anytime.
 
 java
 
@@ -12,11 +16,8 @@ https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE
 
 python / machine learning
 
-https://www.udemy.com/course/python-interview-questions-and-answers/?couponCode=PY_INTERVIEW_UPLATZ
 
 https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=PYTHON_JUL_FREE
-
-
 
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
 
@@ -24,18 +25,17 @@ https://www.udemy.com/course/pandas-python/?couponCode=BUMPERDEAL
 
 https://www.udemy.com/course/exploratory-data-analysis-for-ml/?couponCode=JULY-EDA
 
-https://www.udemy.com/course/machine-learning-interview-questions-and-answers/?couponCode=ML_INTERVIEW_UPLATZ
-
-https://www.udemy.com/course/tensorflow-interview-questions-and-answers/?couponCode=TF_INTEVIEW_UPLATZ
-
+https://www.udemy.com/course/predicting-diabetes-on-diagnostic-using-machine-learning-examturf/?couponCode=EXAMTURF3
 
 javascript
 
 https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponCode=JS_JUL_FREE
 
+Scrum Master
+
+https://www.udemy.com/course/scrum-certification/?couponCode=PWRSCRMFREE21
 
 other / practice test
-
 
 https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-updated-2021/?couponCode=FREEJUL10
 
@@ -58,3 +58,5 @@ https://www.udemy.com/course/c-console-and-windows-forms-development-with-linq-a
 https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PDIMFRULY
 
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
+
+https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=FRCONSECLY
