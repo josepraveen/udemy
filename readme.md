@@ -19,17 +19,6 @@ https://www.udemy.com/course/network-programming-java-network-programming-nio-tc
 
 https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREEJULY4
 
--------------------------------------
-https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_JUL_FREE_1
-
-https://www.udemy.com/course/gof-design-patterns-learnit/?couponCode=GOF_JUL_FREE
-
-https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/?couponCode=SEL_JUL_FREE
-
-https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE
-
-
-https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/?couponCode=PYTHON_JUL_FREE
 
 https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
 
