@@ -17,6 +17,8 @@ https://www.udemy.com/course/android-app-development-bootcamp-with-kotlin-master
 
 https://www.udemy.com/course/network-programming-java-network-programming-nio-tcpip-sockets/?couponCode=NETWORKLEARN
 
+https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREEJULY4
+
 -------------------------------------
 https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_JUL_FREE_1
 
