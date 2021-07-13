@@ -1,6 +1,6 @@
 
 
-limited time free udemy courses
+limited time 100% off udemy courses
 
 Coupons might expire anytime.
 
