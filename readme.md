@@ -2,7 +2,7 @@
 
 limited time 100% off udemy courses
 
-Coupons might expire anytime.
+100% off coupons might expire anytime, so enroll as soon as possible.
 
 javascript
 ----------------------
@@ -65,6 +65,10 @@ quantum
 https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
 
 
+
+for free monthly learning courses refer my github [repository](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources).
+--------------------------------------------------------------------------------------
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
 
 
