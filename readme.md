@@ -19,13 +19,7 @@ https://www.udemy.com/course/network-programming-java-network-programming-nio-tc
 
 https://www.udemy.com/course/aws-services-for-solutions-architect-associates-course/?couponCode=FREEJULY4
 
-https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
-
-https://www.udemy.com/course/pandas-python/?couponCode=BUMPERDEAL
-
 https://www.udemy.com/course/predicting-diabetes-on-diagnostic-using-machine-learning-examturf/?couponCode=EXAMTURF3
-
-https://www.udemy.com/course/complete-practical-time-series-forecasting-in-python/?couponCode=28F592A2D8974526A5B9
 
 https://www.udemy.com/course/data-analytics-projects-python/?couponCode=JULY_SALE
 
@@ -34,12 +28,6 @@ https://www.udemy.com/course/scrum-certification/?couponCode=PWRSCRMFREE21
 https://www.udemy.com/course/mastering-git-for-beginners-and-experts/?couponCode=3FREEDAYS
 
 https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/?couponCode=Q21FREE
-
-https://www.udemy.com/course/ai-900-azure-ai-fundamentals-practice-tests-updated-2021/?couponCode=FREEJUL10
-
-https://www.udemy.com/course/az104-microsoft-azure-administrator-practice-exams/?couponCode=3A8C609EE3DC038FBDB3
-
-https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=FRCONSECLY
 
 
 
