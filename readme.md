@@ -7,32 +7,13 @@ limited time 100% off udemy course coupons.
 javascript
 ----------------------
 
-https://www.udemy.com/course/complete-modern-javascript-with-firebase-bootcamp-for-beginners/?couponCode=A222BC488C99ACA942E2
-
 https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE72105
-
-
-nodejs
----------
-https://www.udemy.com/course/create-nodejs-app-with-express-socket-io-and-mongodb/?couponCode=21D6B5919ABA28366AFB
-
-vuejs
-----------
-https://www.udemy.com/course/vuejs-and-firebase-build-an-ios-and-android-chat-app/?couponCode=046F60C541333294383D
-
-reactjs
---------------
-https://www.udemy.com/course/complete-react-course-w-hooks-react-router-redux-usecontext/?couponCode=58A48BC544D53A910E72
-
 
 java
 --------------------
 
 https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=JULY21FREE
 
-azure
-----------------------
-https://www.udemy.com/course/ai-100-designing-and-implement-azure-ai-solution-exam-test/?couponCode=2627A32CCE0F1B9DA073
 
 aws
 ------------------------
