@@ -4,7 +4,7 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-adruino
+arduino
 ------------------------
 https://www.udemy.com/course/arduino-build-your-own-bionic-arm-with-voice-recognition/?couponCode=56B81E68CAEDC49AF66E
 
