@@ -58,8 +58,6 @@ SQL
 https://www.udemy.com/course/sql-course-for-data-science/?couponCode=F663AE5540E61DB5D948
 
 
-for free monthly learning courses refer my github [repository](https://github.com/josepraveen/free_month_learning_resources/tree/main/resources).
---------------------------------------------------------------------------------------
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
 
