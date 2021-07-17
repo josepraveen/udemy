@@ -4,58 +4,58 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-arduino
-------------------------
-https://www.udemy.com/course/arduino-build-your-own-bionic-arm-with-voice-recognition/?couponCode=56B81E68CAEDC49AF66E
 
-machine learning
-----------------
-https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=FREEJULY5
-
-android
--------------
-https://www.udemy.com/course/android-app-development-course-2021-learn-without-coding/?couponCode=4E3B1125FC36102851DC
-
-https://www.udemy.com/course/a-beginners-guide-to-android-app-development/?couponCode=FREEJULY5
-
-data science
+devops
 --------------------------
-https://www.udemy.com/course/data-visualization-wrangling-python/?couponCode=JULYFREE
+https://www.udemy.com/course/devops-fundamentals-for-beginners/?couponCode=FREEJULY5
+
+git
+---------------------
+https://www.udemy.com/course/git-learnit/?couponCode=GIT_JUL_FREE_2
 
 reactjs
--------------------
+------------------------
 https://www.udemy.com/course/react-js-a-complete-guide-for-frontend-web-development/?couponCode=FREEJULY5
 
-javascript
-----------------------
 
-https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE72105
+machine learning
+--------------------------
+https://www.udemy.com/course/step-by-step-guide-to-machine-learning-course/?couponCode=FREEJULY5
 
 java
+-----------------------------
+https://www.udemy.com/course/java-development-for-beginners-learnit/?couponCode=JAVA_JUL_FREE_2
+
+https://www.udemy.com/course/selenium-in-java-taf-for-beginners-learnit/?couponCode=SEL_JUL_FREE_2
+
+https://www.udemy.com/course/oop-learnit/?couponCode=OOP_JUL_FREE_2
+
+https://www.udemy.com/course/java-collections-framework-learnit/?couponCode=JCF_JUL_FREE_2
+
+https://www.udemy.com/course/testing-for-developers/?couponCode=TDD_JUL_FREE_2
+
+API
+----------------------------
+https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/?couponCode=WEB_TEST_JUL_FREE_2
+
+
+javascript & jquery
+--------------------------
+https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/?couponCode=JS_JUL_FREE_2
+
+c#
+-------------------
+https://www.udemy.com/course/selenium-in-c-sharp-taf-for-beginners-learnit/?couponCode=SEL_C_JUL_FREE_2
+
+
+Microsoft SQL Server
+-------------------
+https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/?couponCode=MSSQL_JUL_FREE_2
+
+
+MEAN stack
 --------------------
-
-https://www.udemy.com/course/programming-network-applications-in-java/?couponCode=JULY21FREE
-
-
-aws
-------------------------
-https://www.udemy.com/course/aws-certified-cloud-practitioner-crash-course-new/?couponCode=4A987D2253F6DEBFA0CE
-
-python
----------------------
-https://www.udemy.com/course/numpy-and-recursion-in-python/?couponCode=MUBASHIR2
-
-https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/?couponCode=1B5343FC328786E3AF6C
-
-https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/?couponCode=CA825A6555C3F81B4016
-
-SAP
---------------------
-https://www.udemy.com/course/sap-s4hana-mm-period-end-closing-and-sap-fico-integration/?couponCode=THANKSFORURREVIEW
-
-SQL
--------------
-https://www.udemy.com/course/sql-course-for-data-science/?couponCode=F663AE5540E61DB5D948
+https://www.udemy.com/course/mern-stack-with-blog-project/?couponCode=8BF0EAF81C8389C3422B
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
