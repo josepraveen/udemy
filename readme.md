@@ -7,6 +7,7 @@ limited time 100% off udemy course coupons.
 machinelearning
 ------------------------
 https://www.udemy.com/course/deep-learning-machine-learning/?couponCode=FREEBIE
+
 https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=JULY_GREETINGS
 
 Solarwinds Certification
