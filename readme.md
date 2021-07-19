@@ -4,10 +4,13 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-machinelearning
+ Deep Learning - ANN, CNN, RNN, LSTMs along with Real Time Projects
 ------------------------
 https://www.udemy.com/course/deep-learning-machine-learning/?couponCode=FREEBIE
 
+
+machine learning
+--------------------------------
 https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=JULY_GREETINGS
 
 Solarwinds Certification
