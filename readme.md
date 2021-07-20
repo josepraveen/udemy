@@ -4,31 +4,25 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
- Deep Learning - ANN, CNN, RNN, LSTMs along with Real Time Projects
+Microsoft Certification
+-----------------------
+https://www.udemy.com/course/az-900-practice-test/?couponCode=4A62BF1071B2E02E17D6
+
+Data Science
+-------------------------
+https://www.udemy.com/course/machine-learning-time-series-forecasting-in-python/?couponCode=TSAFLY2FR
+
+https://www.udemy.com/course/pandas-with-python-for-data-science-examturf/?couponCode=EXAMTURF1
+
+https://www.udemy.com/course/machine-learning-with-scikit-learn-with-python-examturf/?couponCode=EXAMTURF1
+
+Scala
 ------------------------
-https://www.udemy.com/course/deep-learning-machine-learning/?couponCode=FREEBIE
+https://www.udemy.com/course/scala-programming/?couponCode=JAIJAGANNATH2021
 
-
-machine learning
---------------------------------
-https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=JULY_GREETINGS
-
-Solarwinds Certification
----------------------
-https://www.udemy.com/course/solarwinds-database-performance-analyzer-dpa/?couponCode=C9F5EDAF45016B000170
-
-https://www.udemy.com/course/solarwinds-server-application-monitor-course-complete-2021/?couponCode=39447E465750DC996607
-
-https://www.udemy.com/course/solarwinds-npm-ncm?couponCode=CA0310E0807EE97DAE6F
-
-Network Monitoring
-----------------------------
-https://www.udemy.com/course/manageengine-opmanager-course-network-monitoring/?couponCode=1F19D3E14FCE14E72FE8
-
-java
+Apache Spark
 ------------------------
-https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=72202A16B72F3DEEA602
-
+https://www.udemy.com/course/apache-spark-in-depth-spark-with-scala/?couponCode=JAIJAGANNATH2021
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
