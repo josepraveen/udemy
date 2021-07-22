@@ -4,30 +4,30 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
- Machine Learning
------------------------------
-https://www.udemy.com/course/no-code-machine-learning/?couponCode=BUNDLEOFFER
+ETL
+---------------------------
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PENDIJ2FR
 
-https://www.udemy.com/course/data_science_a_to_z/?couponCode=FRMLDLPYJU1
+Git
+----------------------
+https://www.udemy.com/course/git-github-training/?couponCode=36C97BE5E66653FF9CCD
 
-https://www.udemy.com/course/machine-learning-with-scikit-learn-with-python-examturf/?couponCode=EXAMTURF1
+Linux Admin
+---------------------------
+https://www.udemy.com/course/the-complete-ubuntu-linux-server-administration-course/?couponCode=CDF8C24A1B3695B6E9CC
 
-Javascript
--------------------
-https://www.udemy.com/course/learn-javascript-for-beginners-v/?couponCode=YOUACCEL99907
+Scrum
+--------------------------
+https://www.udemy.com/course/becoming-a-scrum-master-interview-preparation/?couponCode=09232E7C829D01745E27
 
 
 Python
------------------
-https://www.udemy.com/course/easy-way-to-learn-python-for-beginners-2021/?couponCode=1412DFF04978C2EC995F
+---------------------
+https://www.udemy.com/course/python-complete-course-for-beginners/?couponCode=DISCUDEMY.COM
 
-https://www.udemy.com/course/pytest-python/?couponCode=82560E2A3CE5C0113A5E
-
-https://www.udemy.com/course/web-scraping-for-data-science-python-selenium-basics/?couponCode=96F06980F2FB1143637B
-
-Data Science
-------------------------
-https://www.udemy.com/course/spatial-data-science-in-python/?couponCode=JULY_LAST
+SQL
+---------------------
+https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?couponCode=FREEDROP
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
