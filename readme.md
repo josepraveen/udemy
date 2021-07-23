@@ -24,6 +24,8 @@ https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-python/
 
 https://www.udemy.com/course/nlp-bootcamp-machine-learning-deep-learning/?couponCode=NLPFREE
 
+Data Visualization
+-------------------------
 https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=FRGDSAZJU1
 
 PMP
