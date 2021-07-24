@@ -5,51 +5,37 @@ limited time 100% off udemy course coupons.
 100% off coupons might expire anytime, so enroll as soon as possible.
 
 Python
+--------------------------
+https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=JULY_LAST
+
+https://www.udemy.com/course/build-database-driven-apps-with-sql-server-c-python/?couponCode=F74750872E16072BBCEF
+
+Azure
+------------------------
+https://www.udemy.com/course/azure-fundamentals-exam-az-900-best-6-practice-exam-cloudai/?couponCode=CLOUDAIAZUREFREEE
+
+Kotlin
 ---------------------
-https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=9107A723581D323340F3
+https://www.udemy.com/course/develop-android-app-with-kotlin-in-1-month/?couponCode=0E92C3C14ABE3D436B53
 
-https://www.udemy.com/course/python-practice-guide-for-beginners/?couponCode=8F3BC8F841AA2EABF8C4
 
-Android
--------------------
-https://www.udemy.com/course/android-app-development-bootcamp-with-kotlin-masterclass/?couponCode=LEARNAPPDEVFREE
+Arcgis Pro
+------------------------------
+https://www.udemy.com/course/arcgis-pro-crash-course-get-started-with-arcgis-in-2021/?couponCode=D3D389492FEE676811E6
 
-https://www.udemy.com/course/learn-to-build-8-android-widgets-in-2-hours/?couponCode=FREEJULY7
+Oracle
+-------------------------
+https://www.udemy.com/course/oracle-11g-18c-database-administrationdata-analysis/?couponCode=CEAE9D3C9221ACDF28DF
+
+Javascript
+--------------------------
+https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJULY7
 
 Machine Learning
------------------
+-------------------------------
+https://www.udemy.com/course/machine-learning-and-ai-with-hands-on-projects/?couponCode=FREEJULY7
+
 https://www.udemy.com/course/machine-learning-basics-building-regression-model-in-python/?couponCode=LRPYFR1J
-
-https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-python/?couponCode=DTRF1JU
-
-https://www.udemy.com/course/nlp-bootcamp-machine-learning-deep-learning/?couponCode=NLPFREE
-
-Data Visualization
--------------------------
-https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=FRGDSAZJU1
-
-PMP
------------------
-https://www.udemy.com/course/pmi-acp-practice-exams-agile-certified-practitioner-200-q/?couponCode=621CF8491C02C969FB54
-
-Java
---------------
-https://www.udemy.com/course/introduction-to-core-java/?couponCode=TECHSTATS.IN
-
-SQL
------------------
-https://www.udemy.com/course/sql-bootcamp-hands-on-exercises-sqlite-part-ii/?couponCode=FREEDROP
-
-
-https://www.udemy.com/course/modern-job-interview-preparation-tips-tricks-masterclass/?couponCode=MYCOUPON000
-
-others
--------------
-https://www.udemy.com/course/publicspeakingtactics/?couponCode=FCEFE6FBE4E45E8F1A64
-
-https://www.udemy.com/course/interview-questions-answers/?couponCode=NAFEEZ2021
-
-https://www.udemy.com/course/modern-job-interview-preparation-tips-tricks-masterclass/?couponCode=MYCOUPON000
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
