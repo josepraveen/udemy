@@ -4,6 +4,22 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
+
+R
+---------------
+https://www.udemy.com/course/statistical-concepts-explained-and-applied-in-r/?couponCode=445FCEBCCAA4C1821A9C
+
+Google Analytics
+--------------------
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=478AD28931D11711D537
+
+Azure 900
+-----------------------
+https://www.udemy.com/course/azure-fundamentals-exam-az-900-best-6-practice-exam-cloudai/?couponCode=CLOUDAIAZUREFREEE
+
+________________________________
+Yesterday courses
+
 Python
 --------------------------
 https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=JULY_LAST
@@ -17,11 +33,6 @@ https://www.udemy.com/course/azure-fundamentals-exam-az-900-best-6-practice-exam
 Kotlin
 ---------------------
 https://www.udemy.com/course/develop-android-app-with-kotlin-in-1-month/?couponCode=0E92C3C14ABE3D436B53
-
-
-Arcgis Pro
-------------------------------
-https://www.udemy.com/course/arcgis-pro-crash-course-get-started-with-arcgis-in-2021/?couponCode=D3D389492FEE676811E6
 
 Oracle
 -------------------------
