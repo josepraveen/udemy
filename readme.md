@@ -4,43 +4,49 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-Python
----------------
-https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=JULY003
-
-Java
-----------------
-https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/?couponCode=73658D96031527
-
-Tableau
--------------------
-https://www.udemy.com/course/easy-analysis-with-tableau/?couponCode=TABLEAUFREEJULY
-
-R
-------------
-https://www.udemy.com/course/machine-learning-with-r-studio/?couponCode=FRMLR3JL
-
-PowerBI
---------------
-https://www.udemy.com/course/curso-microsoft-power-bi/?couponCode=JUL2021
-
-google bigquery
+Google Data Studio
 --------------------
-https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/?couponCode=GBQPQ2FRJL
+ https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=FREE_JULY
 
-HTML
------------
-https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=38CA7F80AA93992471D6
+Machine Learning
+----------------
+https://www.udemy.com/course/machine-learning-regression-and-classification-math-inc/?couponCode=6904D504262E0EF4C74A
 
-data analytics
-------------------------------
-https://www.udemy.com/course/dataanalyticsa-zwithpython/?couponCode=F9FB4BECD814DCB28C87
+Linkedin
+--------------
+https://www.udemy.com/course/linkedin-advertising-marketing/?couponCode=E25112760BA6C83C2A84
 
-machine learning
--------------------------
-https://www.udemy.com/course/machine-learning-basics-building-regression-model-in-python/?couponCode=LRPYFR1J
+Python
+-------------------
+https://www.udemy.com/course/face-recognition-deveop-application-using-python-language/?couponCode=821DDA70DD073C924D12
 
-https://www.udemy.com/course/machine-learning-real-world-projects-in-python/?couponCode=JULY_LAST
+MS 500
+------------
+https://www.udemy.com/course/microsoft-365-security-admin-ms-500-exam-practice-test/?couponCode=B981E96837175D782B66
+
+Ruby
+---------------
+https://www.udemy.com/course/ruby-best-course/?couponCode=MUBASHIR2
+
+Javascript
+-------------
+https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJULY8
+
+Scrum
+----------------
+https://www.udemy.com/course/2021-scrum-for-product-owner-and-scrum-master-course/?couponCode=DFCA48927B8D6C040113
+
+Drupal
+------------------
+https://www.udemy.com/course/drupal-masterclass/?couponCode=2A606C179153074F014F
+
+Others
+------------------
+https://www.udemy.com/course/mastering-the-interview-b/?couponCode=JULY.2021
+
+https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=FREE_JULY
+
+https://www.udemy.com/course/the-road-to-dynamic-programming/?couponCode=04E49F768D8099977C05
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
