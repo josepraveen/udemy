@@ -4,49 +4,40 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-Google Data Studio
---------------------
- https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=FREE_JULY
+Practice Tests
+--------------------------
 
-Machine Learning
-----------------
-https://www.udemy.com/course/machine-learning-regression-and-classification-math-inc/?couponCode=6904D504262E0EF4C74A
+https://www.udemy.com/course/azure-virtual-desktop-exam-az-140-practice-test-2021/?couponCode=A794BCD862FA5DC8C3EA
 
-Linkedin
---------------
-https://www.udemy.com/course/linkedin-advertising-marketing/?couponCode=E25112760BA6C83C2A84
+https://www.udemy.com/course/microsoft-azure-security-exam-az-500-practice-test-2021/?couponCode=21FEE78811AEA12D45E8
 
-Python
--------------------
-https://www.udemy.com/course/face-recognition-deveop-application-using-python-language/?couponCode=821DDA70DD073C924D12
+https://www.udemy.com/course/microsoft-365-security-admin-ms-500-exam-practice-test/?couponCode=9FB3FBA2606BAD418731
 
-MS 500
-------------
-https://www.udemy.com/course/microsoft-365-security-admin-ms-500-exam-practice-test/?couponCode=B981E96837175D782B66
+https://www.udemy.com/course/az-204-developing-solutions-for-ms-azure-practice-test-2021-r/?couponCode=03CDD34B9319EC6C5FC4
 
-Ruby
----------------
-https://www.udemy.com/course/ruby-best-course/?couponCode=MUBASHIR2
+https://www.udemy.com/course/ms-600-microsoft-365-core-services-practice-test-2021/?couponCode=D7798661E7A7E808C3A3
 
-Javascript
--------------
-https://www.udemy.com/course/javascript-basics-to-advanced/?couponCode=FREEJULY8
+Microsoft Excel
+---------------------
+https://www.udemy.com/course/excel-for-financial-analysis-financial-modeling/?couponCode=FAFMFR3JL
 
-Scrum
-----------------
-https://www.udemy.com/course/2021-scrum-for-product-owner-and-scrum-master-course/?couponCode=DFCA48927B8D6C040113
+FrontEnd Development
+-----------------
+https://www.udemy.com/course/learn-front-end-development/?couponCode=TRY10FREE82101
 
-Drupal
+ETL
 ------------------
-https://www.udemy.com/course/drupal-masterclass/?couponCode=2A606C179153074F014F
+https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=PDI3FRJL
 
-Others
-------------------
-https://www.udemy.com/course/mastering-the-interview-b/?couponCode=JULY.2021
+Keras & Tensorflow
+----------------------
+https://www.udemy.com/course/deep-learning-with-keras-and-tensorflow-in-python-and-r/?couponCode=ANNK1FRJL
 
-https://www.udemy.com/course/essential-non-technical-skills-of-effective-data-scientists/?couponCode=FREE_JULY
+Google Tools
+-----------------------
+https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=5F79524BB059E89F9FCD
 
-https://www.udemy.com/course/the-road-to-dynamic-programming/?couponCode=04E49F768D8099977C05
+https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=GDS2FRJL
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
