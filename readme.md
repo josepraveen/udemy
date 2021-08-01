@@ -39,6 +39,10 @@ https://www.udemy.com/course/google-analytics-course-for-beginners/?couponCode=5
 
 https://www.udemy.com/course/google-data-studio-by-starttech/?couponCode=GDS2FRJL
 
+Linkedin
+----------------
+https://www.udemy.com/course/linkedin-marketing-tutorial/?couponCode=LINKEDINFREE
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
 
