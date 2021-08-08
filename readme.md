@@ -4,9 +4,13 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-Ruby
+Google BigQuery
 -----------------
-https://www.udemy.com/course/ruby-best-course/?couponCode=RUBYTIME
+https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/?couponCode=GBQFR1AU
+
+HR Analytics
+------------------------
+https://www.udemy.com/course/hr-analytics-using-excel/?couponCode=HRMFR1AU
 
 
 
