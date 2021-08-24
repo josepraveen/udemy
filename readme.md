@@ -4,9 +4,9 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-R
+Microsoft Power Automate
 --------------
-https://www.udemy.com/course/r-language-with-hands-on-experience/?couponCode=64077E779F08B6D0A07B
+https://www.udemy.com/course/learn-microsoft-power-automate/?couponCode=TRY10FREE82108
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
