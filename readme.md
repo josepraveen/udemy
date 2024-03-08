@@ -4,33 +4,29 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
-azure
----------------------
-https://www.udemy.com/course/az-104-microsoft-azure-administrator-newest-practice-tests/?couponCode=6933C1CA3192859AC046
+Prometheus MasterClass 2024: Infra Monitoring & Alerting
+https://www.udemy.com/course/prometheus-monitoring/?couponCode=070324
 
-https://www.udemy.com/course/az-500-azure-security-technologies-practice-tests-dec-2021/?couponCode=E034BC745A2A1422574B
+Certified Kubernetes Application Developer | CKAD Exam 2024
+https://www.udemy.com/course/certified-kubernetes-application-developer-training/?couponCode=070324
 
-https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exams-2022-r/?couponCode=ANEWYEAR2022
+Ansible MasterClass: Automation with AWS | GCP Hands-On 2024
+https://www.udemy.com/course/ansible-automation-advance/?couponCode=070324
 
-https://www.udemy.com/course/az-204-developing-solutions-for-azure-practice-tests-o/?couponCode=E83FABA5CE4A18D20158
+Google Cloud Professional Cloud Architect: GCP Certification
+https://www.udemy.com/course/gcp-professional-cloud-architect/?couponCode=070324
 
-ccna
---------------
-https://www.udemy.com/course/ccna-cyber-ops-200-201-cbrops-practice-exams-january-2022/?couponCode=ANEWYEAR2022
+Python Data Structures & Algorithms: Ace Coding Interviews
+https://www.udemy.com/course/data-structures-algorithms-in-python-j/?couponCode=586E44CFB23470E1C49B
 
-AWS
---------------------
-https://www.udemy.com/course/aws-solutions-architect-associate-practice-tests-new-2022/?couponCode=ANEWYEAR2022
+Mastering the PMBOK Guide 7th Edition for your PMP exam
+https://www.udemy.com/course/mastering-the-pmbok-guide-7th-edition/?couponCode=PMBOK-2024-SAMANT
 
-https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-tests-new-2022/?couponCode=ANEWYEAR2022
+Mastering the PMBOK Guide 7th Edition for your PMP exam
+https://www.udemy.com/course/mastering-the-pmbok-guide-7th-edition/?couponCode=PMBOK-2024-SAMANT
 
-https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-v/?couponCode=BF9B87AE576D6E53E1AE
 
-https://www.udemy.com/course/exam-aws-certified-solutions-architect-associate-practice/?couponCode=A2B9373F9E9461D2A95F
 
-https://www.udemy.com/course/aws-ans-c00-certified-advanced-networking-m/?couponCode=5B0FD75A180C6814B091
-
-https://www.udemy.com/course/scs-c01-aws-certified-security-specialty-real-practice-exam/?couponCode=F0F7F1DAC6C8CBEA3D43
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
