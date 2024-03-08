@@ -4,6 +4,8 @@ limited time 100% off udemy course coupons.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
+
 Prometheus MasterClass 2024: Infra Monitoring & Alerting
 https://www.udemy.com/course/prometheus-monitoring/?couponCode=070324
 
