@@ -120,6 +120,8 @@ ______________________________________
 
 41  https://www.udemy.com/course/master-in-systems-thinking/?couponCode=CFBB17D36159385B1901
 
+42 https://www.udemy.com/course/learn-python-javascript-microsoft-sql-for-data-science/?&couponCode=UPGRAD
+
 _________________________________________________
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
