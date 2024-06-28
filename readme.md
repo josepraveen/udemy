@@ -5,7 +5,26 @@ limited time 100% off udemy course coupons.
 100% off coupons might expire anytime, so enroll as soon as possible.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
+___________________________________________________
 
+
+3 Kubernetes Certifications - CKA, CKAD & CKS Crash Course
+https://www.udemy.com/course/cka-ckad-crash-course/?couponCode=JUNE02
+
+30 Day: AWS Certified Solutions Architect Associate SAA-C03
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-30daychallenge/?couponCode=B1A9A72AD6250D58FBB6
+
+AWS EC2 : AWS Certified Solutions Architect - Associate
+https://www.udemy.com/course/aws-ec2-aws-certified-solutions-architect-associate/?couponCode=768A4BBBDFA6DB75366E
+
+Mastering Active Directory: Manage and Optimize The Network
+https://www.udemy.com/course/mastering-active-directory-manage-and-optimize-the-network/?couponCode=93D4068C83C3D8CA861A
+
+Master MCSE : Windows Server 2022 OS Administration Course
+https://www.udemy.com/course/learn-windows-server-2022-in-an-easy-way-basics-to-advanced/?couponCode=30590A7B91C86103E70E
+
+VMware vSphere Mastery: Build and Manage Virtualized Infra
+https://www.udemy.com/course/vsphere-zero-hero/?couponCode=942B0A1E8F872744FC07
 ___________________________________________________
 
 https://www.udemy.com/course/the-ultimate-isc2-certified-in-cybersecurity-practice-tests/?couponCode=FREEISC2CCEXAM2
