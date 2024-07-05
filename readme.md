@@ -9,6 +9,10 @@ coupon limit: 100 or 500 or 1000 enrolments.
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 ___________________________________________________
 
+https://www.udemy.com/course/mastering-risk-management-framework-rmf/?couponCode=JULYCO15
+
+https://www.udemy.com/course/mastering-cybersecurity-and-supply-chain-risk-management/?couponCode=JULYCO13
+
 https://www.udemy.com/course/containerization-with-docker-and-kubernetes-mastery/?couponCode=JULYCO11
 ___________________________________________________
 
