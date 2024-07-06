@@ -7,6 +7,23 @@ coupon limit: 100 or 500 or 1000 enrolments.
 100% off coupons might expire anytime, so enroll as soon as possible.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
+
+___________________________________________________
+
+https://www.udemy.com/course/az-104-manage-identities-and-governance-in-azure/?couponCode=NOPAINNOGAIN
+
+https://www.udemy.com/course/itsm-4-foundation-certification-and-implementation-course/?couponCode=FREE2024
+
+https://www.udemy.com/course/achieiving-operation-excellence-with-itil-4/?couponCode=FREE2024
+
+https://www.udemy.com/course/agile-adapt-digital-transformation-fundamentals/?couponCode=FREE2024
+
+https://www.udemy.com/course/prometheus-monitoring/?couponCode=A7B7CC3EB5CD083741E2
+
+https://www.udemy.com/course/google-cloud-specialization/?couponCode=12D8E4F202D5B181A4CB
+
+https://www.udemy.com/course/computing-fundamentals-it-networking-os-virtualization/?couponCode=747954FD2CC9494B8841
+
 ___________________________________________________
 
 https://www.udemy.com/course/mastering-risk-management-framework-rmf/?couponCode=JULYCO15
