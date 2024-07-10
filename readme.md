@@ -10,6 +10,19 @@ coupon limit: 100 or 500 or 1000 enrolments.
 
 ___________________________________________________
 
+35 hours course content - pmp
+https://www.udemy.com/course/pmp-certification-exam-prep-course/?couponCode=85F11013098E5A35667E
+
+14 hours course content - reactjs
+https://www.udemy.com/course/react-with-redux-tutorials-mastering-modern-web-development/?couponCode=SKILLSEDUCBA
+
+12 hours course content - react 
+https://www.udemy.com/course/mastering-react-native-complete-guide-to-app-development/?couponCode=SKILLSEDUCBA
+
+10 hours course content - react 
+https://www.udemy.com/course/scala-programming-from-basics-to-advanced/?couponCode=SKILLSEDUCBA
+___________________________________________________
+
 https://www.udemy.com/course/certified-kubernetes-application-developer-training/?couponCode=3FD19316227B5C1FBBA1
 
 _________________________________________________
