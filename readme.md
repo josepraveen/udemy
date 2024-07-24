@@ -10,6 +10,8 @@ coupon limit: 100 or 500 or 1000 enrolments.
 
 ___________________________________________________
 
+https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=SPRINGBOOT3-FREE-TRE
+
 https://www.udemy.com/course/how-to-give-a-ceremonial-speech/?couponCode=A944020204170B626900
 
 https://www.udemy.com/course/how-to-speak-to-large-audiences/?couponCode=9B73D9C75367B52FD212
