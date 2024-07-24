@@ -10,20 +10,23 @@ coupon limit: 100 or 500 or 1000 enrolments.
 
 ___________________________________________________
 
-35 hours course content - pmp
-https://www.udemy.com/course/pmp-certification-exam-prep-course/?couponCode=85F11013098E5A35667E
+https://www.udemy.com/course/how-to-give-a-ceremonial-speech/?couponCode=A944020204170B626900
 
-14 hours course content - reactjs
-https://www.udemy.com/course/react-with-redux-tutorials-mastering-modern-web-development/?couponCode=SKILLSEDUCBA
+https://www.udemy.com/course/how-to-speak-to-large-audiences/?couponCode=9B73D9C75367B52FD212
 
-12 hours course content - react 
-https://www.udemy.com/course/mastering-react-native-complete-guide-to-app-development/?couponCode=SKILLSEDUCBA
+https://www.udemy.com/course/how-to-deliver-a-free-sales-generation-seminar/?couponCode=9B6E9DA76A5167C43925
 
-10 hours course content - react 
-https://www.udemy.com/course/scala-programming-from-basics-to-advanced/?couponCode=SKILLSEDUCBA
-___________________________________________________
+https://www.udemy.com/course/how-to-give-a-persuasive-speech/?couponCode=721F2BC62DAE1B4300C6
 
-https://www.udemy.com/course/certified-kubernetes-application-developer-training/?couponCode=3FD19316227B5C1FBBA1
+https://www.udemy.com/course/public-speaking-for-women/?couponCode=5774C13F7837DC6B6C58
+
+https://www.udemy.com/course/how-to-give-a-sales-presentation/?couponCode=0262C3C8484A0120971C
+
+https://www.udemy.com/course/how-to-give-a-boardroom-speech/?couponCode=A17C27FEA46B9B113424
+
+https://www.udemy.com/course/how-to-give-a-virtual-keynote-speech/?couponCode=BA3CA3F6C5ACCC622FA0
+
+https://www.udemy.com/course/how-to-recover-from-public-speaking-disasters/?couponCode=17E2AFD6E85126BDCD22
 
 _________________________________________________
 
