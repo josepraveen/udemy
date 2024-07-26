@@ -6,7 +6,61 @@ coupon limit: 100 or 500 or 1000 enrolments.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
+```
+https://github.com/josepraveen/udemy/blob/main/readme.md
+```
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
+
+___________________________________________________
+
+https://www.udemy.com/course/nmap-training/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/master-network-security/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/open-source-intelligence/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/reverse-engineering-and-malware-analysis/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/the-ultimate-ethical-hacking-linux-and-metasploit-training/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/network-programming-java-mastering-java-networking/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/digital-forensics-course/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/real_pentest/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/reverse-engineering-malware-analysis/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/wireshark-training/?couponCode=LAST_JULY_2024
+
+https://www.udemy.com/course/personal-finance-private-wealth-management/?couponCode=EDUCBASKILLSS
+
+https://www.udemy.com/course/blender-mastery-from-basics-to-advanced-modeling/?couponCode=EDUCBASKILLS
+
+https://www.udemy.com/course/realflow-mastery-comprehensive-fluid-simulation-techniques/?couponCode=EDUCBASKILLS
+
+https://www.udemy.com/course/mastering-adobe-after-effects-from-basics-to-advanced/?couponCode=EDUCBASKILLS
+
+https://www.udemy.com/course/newbluefx-mastery-your-path-to-professional-video-editing/?couponCode=EDUCBASKILLS
+
+https://www.udemy.com/course/the-complete-java-training/?couponCode=FREELEARNINGJULY2024
+
+https://www.udemy.com/course/python-for-beginners-learn-fundamentals-and-build-projects/?couponCode=4BE0EA94C6250D35798B
+
+https://www.udemy.com/course/project-management-fundamentals-gantt/?couponCode=MONTHEND
+
+https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=SPRINGBOOT3-FREE-TRE (33 hours learning content)
+
+https://www.udemy.com/course/pandas-for-data-wrangling-core-skills-for-data-scientists/?couponCode=EDUCBASKILLSS
+
+https://www.udemy.com/course/pmi-acp-certification-preparation-course/?couponCode=EDUCBASKILLSS
+
+https://www.udemy.com/course/kibana-projects-mastering-analytics-and-visualization/?couponCode=EDUCBASKILLSS
+
+https://www.udemy.com/course/qlikview-mastery-comprehensive-bi-and-etl-training/?couponCode=EDUCBASKILLSS
+
+https://www.udemy.com/course/mastering-hive-from-basics-to-advanced-big-data-analysis/?couponCode=EDUCBASKILLS
 
 ___________________________________________________
 
