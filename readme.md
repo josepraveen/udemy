@@ -6,8 +6,10 @@ coupon limit: 100 or 500 or 1000 enrolments.
 
 100% off coupons might expire anytime, so enroll as soon as possible.
 
+Don't miss this opportunity to level up your skills.
+
 ```
-https://github.com/josepraveen/udemy/blob/main/readme.md
+https://github.com/josepraveen/udemy
 ```
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
