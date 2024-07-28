@@ -16,6 +16,11 @@ https://github.com/josepraveen/udemy
 
 ___________________________________________________
 
+https://www.udemy.com/course/tabular-editor-3/?couponCode=9C85939F5658269ED5DD (18 hours learning content)
+
+https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/?couponCode=UDEMYJUL24-3 ( 30 hours learning content)
+___________________________________________________
+
 https://www.udemy.com/course/nmap-training/?couponCode=LAST_JULY_2024
 
 https://www.udemy.com/course/master-network-security/?couponCode=LAST_JULY_2024
