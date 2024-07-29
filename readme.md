@@ -14,6 +14,24 @@ https://github.com/josepraveen/udemy
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 
+total udemy course: 26
+___________________________________________________
+
+https://www.udemy.com/course/masterclass-for-effective-time-management/?couponCode=FREECOURSE
+
+https://www.udemy.com/course/applied-nlp-with-python/?couponCode=CODESKILLS2024_07
+
+https://www.udemy.com/course/practical-ics-pentesting/?couponCode=2CBF8563C3AC731469D9
+
+https://www.udemy.com/course/awaken-the-leader-within/?couponCode=FREECOURSE
+
+https://www.udemy.com/course/assessingprotectingics/?couponCode=C4D361F0C715C630217A
+
+https://www.udemy.com/course/masterclass-of-critical-thinking/?couponCode=FREECOURSE
+
+https://www.udemy.com/course/market-research-quantitative-and-qualitative-methods/?couponCode=DDA247CD9CB2BEAEEA30
+
+https://www.udemy.com/course/masterclass-of-critical-thinking/?couponCode=FREECOURSE
 ___________________________________________________
 
 https://www.udemy.com/course/tabular-editor-3/?couponCode=9C85939F5658269ED5DD (18 hours learning content)
