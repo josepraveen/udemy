@@ -14,8 +14,7 @@ https://github.com/josepraveen/udemy
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 
-total udemy course: 26
-___________________________________________________
+__________________________________________________
 
 https://www.udemy.com/course/masterclass-for-effective-time-management/?couponCode=FREECOURSE
 
