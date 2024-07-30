@@ -17,6 +17,8 @@ https://github.com/josepraveen/udemy
 __________________________________________________
 Technology Courses
 
+https://www.udemy.com/course/cloud-penetration-testing-with-azure/?couponCode=CLOUDPENTESTING
+
 https://www.udemy.com/course/excellence-in-solutions-design/?couponCode=282A932D1C27A63D32F2
 
 https://www.udemy.com/course/excellence-in-digital-strategy/?couponCode=51A2DBA78EE6EC1A4BEA
