@@ -1,12 +1,10 @@
-
-
 limited time 100% off udemy course coupons.
 
 coupon limit: 100 or 500 or 1000 enrolments.
 
-100% off coupons might expire anytime, so enroll as soon as possible.
-
 Don't miss this opportunity to level up your skills.
+
+Disclaimer: The below udemy course coupon links which I get from various search engines.
 
 ```
 https://github.com/josepraveen/udemy
