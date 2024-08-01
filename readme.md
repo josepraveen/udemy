@@ -13,6 +13,11 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+Learn Java Masterclass (updated to Java 17)
+https://www.udemy.com/course/learn-java-to-master/?couponCode=E52C15EF820B4FE9A2D1 (98 hours learning content)
+
+__________________________________________________
+
 https://www.udemy.com/course/sales-transformation-sales-fundamentals-101-to-advanced/?couponCode=EDUCBASKILLS
 
 https://www.udemy.com/course/personal-development-personal-transformation-course/?couponCode=EDUCBASKILLS
