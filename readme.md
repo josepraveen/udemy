@@ -13,6 +13,11 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+Solving LeetCode's Top Interview Questions in Java [2024]
+https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?couponCode=73BFB0CF2D524498312B
+
+__________________________________________________
+
 Learn Java Masterclass (updated to Java 17)
 https://www.udemy.com/course/learn-java-to-master/?couponCode=E52C15EF820B4FE9A2D1 (98 hours learning content)
 
