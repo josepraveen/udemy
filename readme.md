@@ -13,6 +13,26 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/master-bi-ssis-ssrs-ssas-mdx-zero-to-hero-2024/?couponCode=9-F98957CD004F2F8F6A
+
+https://www.udemy.com/course/java-struts-spring-hibernate-jsp-ejb-jsf-jws-maven/?couponCode=SKILLSEDUCBA
+
+https://www.udemy.com/course/power-resume-and-cv-writing-that-lands-job-interviews/?couponCode=AUG2024FREE1
+
+https://www.udemy.com/course/learn-ruby-on-rails-7/?couponCode=B2DB4D1885514DB17CF7
+
+https://www.udemy.com/course/ruby-fundamentals-learn-ruby-and-build-fun-applications/?couponCode=E57EF29F23751404DFDC
+
+https://www.udemy.com/course/learn-java-to-master/?couponCode=E52C15EF820B4FE9A2D1
+
+https://www.udemy.com/course/iso-27001-network-communication-security-management/?couponCode=77306E4A7FEDA71CF156
+
+https://www.udemy.com/course/dl-guided-project-image-classification-with-cnn-on-cifar-10/?couponCode=LEARNWITHRAJ0824
+
+https://www.udemy.com/course/intro-to-iso-140012015/?couponCode=741188B883ADBAAEA35E
+
+
+
 Solving LeetCode's Top Interview Questions in Java [2024]
 https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?couponCode=73BFB0CF2D524498312B
 
