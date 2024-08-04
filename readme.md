@@ -13,6 +13,31 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/lpi-le-workshop/?couponCode=7FACF0CC94AFAA1E9436
+
+https://www.udemy.com/course/getting-started-with-ansible/?couponCode=323BA7A5FB0749876B9D
+
+https://www.udemy.com/course/public-speaking-body-hacks-founders/?couponCode=3A0C37DDA8E2E8C3EF1D
+
+https://www.udemy.com/course/bug-bounty-hunting-with-burp-suite/?couponCode=D90AFD83A3D9E58DACAA 
+
+https://www.udemy.com/course/learn-graphql-in-java/?couponCode=MID-SUMMER
+
+https://www.udemy.com/course/learn-javascript-css-and-html-with-practical-projects/?couponCode=1367644211E0F11237E8
+
+https://www.udemy.com/course/java-mastery-unleashing-the-power-of-programming/?couponCode=23F7738DB091CCD29715
+
+https://www.udemy.com/course/mspowerpoint/?couponCode=F6FFC71D7FA04A02574F
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03-30daychallenge/?couponCode=3A4F792F6DF78FF92A97
+
+https://www.udemy.com/course/complete-german-course-german-speaking/?couponCode=AUG24FREE1
+
+https://www.udemy.com/course/safe-6-from-zero-to-hero-in-scaled-agile-framework/?couponCode=SCALEDAGILE
+
+https://www.udemy.com/course/master-microsoft-power-bi-in-21-days/?couponCode=LIMITED777
+
+__________________________________________________
 https://www.udemy.com/course/master-bi-ssis-ssrs-ssas-mdx-zero-to-hero-2024/?couponCode=9-F98957CD004F2F8F6A
 
 https://www.udemy.com/course/java-struts-spring-hibernate-jsp-ejb-jsf-jws-maven/?couponCode=SKILLSEDUCBA
