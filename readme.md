@@ -62,12 +62,3 @@ https://www.udemy.com/course/intro-to-iso-140012015/?couponCode=741188B883ADBAAE
 _________________________________________________
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
-
-
-Disclaimer: The above course links which I get from various websites. 
-
-
-
-
-
-
