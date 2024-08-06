@@ -13,6 +13,32 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/quarkus-by-example/?couponCode=89E51A06A3ED871A5824
+
+https://www.udemy.com/course/ai-900-microsoft-certified-azure-ai-fundamentals/?couponCode=21363003FEDCBF34F758
+
+https://www.udemy.com/course/azure-ai-050/?couponCode=6BD5E70400ED69CBCB9B
+
+https://www.udemy.com/course/the-bigtech-system-design-interview-bootcamp/?couponCode=EB81E44E81774277BD7D
+
+https://www.udemy.com/course/microsoft-powerbi-masterclass-latest-version/?couponCode=FRIENDSHIP_DAY
+
+https://www.udemy.com/course/microsoft-fabric-masterclass-a-unified-data-and-analytics-tool/?couponCode=FRIENDSHIP_DAY
+
+https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/?couponCode=BADAEE30B6C8AA07734B
+
+https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/?couponCode=40B936BEC7046B61A0D7
+
+https://www.udemy.com/course/flutter-rest-api-development-course-build-a-movie-app/?couponCode=D73C9890EA3E93DED44D
+
+https://www.udemy.com/course/club-java-master-de-novato-a-experto-java-javaee-spring-hibernate-jpa/?couponCode=GM_AGO_24
+
+https://www.udemy.com/course/aprende-java-en-13-dias-con-aplicaciones-del-mundo-real-spring/?couponCode=GM_AGO_24
+
+https://www.udemy.com/course/continous-integration-jenkins-pipelines/?couponCode=622D5A3227C9BB89CDC5
+
+https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/?couponCode=AB1B1140DDF8C2079556
+
 https://www.udemy.com/course/how-to-secure-web-application/?couponCode=SALESSECURITYAUGUST1
 
 https://www.udemy.com/course/spring-security-login-logout-with-spring-boot-web-project/?couponCode=JAVAHOUSE
