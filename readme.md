@@ -13,6 +13,14 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/the-complete-iso-22301-master-class/?couponCode=F5B2B38EAA79E4FB3986
+
+https://www.udemy.com/course/chatgpt-prompt-engineering-for-beginners/?couponCode=2024AUG
+
+https://www.udemy.com/course/how-to-secure-web-application/?couponCode=SALESSECURITYAUGUST1
+
+https://www.udemy.com/course/excellent-python-3-bootcamp-in-2023/?couponCode=CA1A3FBC1A893D6C9C17
+
 https://www.udemy.com/course/quarkus-by-example/?couponCode=89E51A06A3ED871A5824
 
 https://www.udemy.com/course/ai-900-microsoft-certified-azure-ai-fundamentals/?couponCode=21363003FEDCBF34F758
