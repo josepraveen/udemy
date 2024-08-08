@@ -13,6 +13,16 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/?couponCode=FREEFORYOU
+
+https://www.udemy.com/course/data-integration-etl-with-talend/?couponCode=EDUCBACOURSES
+
+https://www.udemy.com/course/powershell-masterclass/?couponCode=75B555205DC784584E6F
+
+https://www.udemy.com/course/kubernetes-training/?couponCode=4AA3E9FD7C472E80E9E0
+
+https://www.udemy.com/course/c-level-management-100-models-for-business-success-part-2/?couponCode=91F41C2EA6D622BA0EC4
+
 https://www.udemy.com/course/the-complete-iso-22301-master-class/?couponCode=F5B2B38EAA79E4FB3986
 
 https://www.udemy.com/course/chatgpt-prompt-engineering-for-beginners/?couponCode=2024AUG
