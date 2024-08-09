@@ -13,6 +13,13 @@ https://github.com/josepraveen/udemy
 ![GitHub last commit](https://img.shields.io/github/last-commit/josepraveen/udemy) 
 __________________________________________________
 
+https://www.udemy.com/course/cisco-ccna-data-center-completo-dcicn-dcict/?couponCode=7D3D290D0717310C22CB
+
+https://www.udemy.com/course/learn-java-to-master/?couponCode=C91DA2F3028E3BE4E3E8
+
+https://www.udemy.com/course/certified-kubernetes-application-developer-training/?couponCode=3FC0A13131FF8DC758D3
+
+
 https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/?couponCode=FREEFORYOU
 
 https://www.udemy.com/course/data-integration-etl-with-talend/?couponCode=EDUCBACOURSES
